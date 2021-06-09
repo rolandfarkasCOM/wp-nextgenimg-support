@@ -1,2 +1,30 @@
-# wp-webp-support
-A simple free WordPress plugin to add WebP support
+# Simple WordPress WebP Support Plugin
+
+## Description
+
+A simple WordPress WebP image format support plugin, allow you to use WebP images on your WordPress Website.
+
+## Getting Started
+
+
+### Installing
+
+Download the zip file from Github, and install it by uploading the plugin to your WordPress plugins.
+
+## Author:
+
+* [@rolandfarkasCOM](https://github.com/rolandfarkasCOM/)  
+
+## Version History
+* 1.0 
+    * Release Update
+
+* 0.2
+    * Updated readme.md
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE License - see the LICENSE.md file for details
