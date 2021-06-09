@@ -12,7 +12,6 @@
  * Text Domain: wowebpsupport
  * License: GNU General Public License v3.0
  * URI: http://www.gnu.org/licenses/gpl-3.0.html
- * Domain Path: /languages
  */
 
 if ( ! defined( 'ABSPATH' ) ) die( 'Hey, you can`t access this file, you silly human!' );
