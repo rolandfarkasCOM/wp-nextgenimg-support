@@ -6,7 +6,7 @@
  * Plugin Name: WordPress Next Gen. Image Support
  * Plugin URI: https://github.com/rolandfarkasCOM/wp-webp-support
  * Description: WordPress Next Gen. Image Support (WebP, JP2).
- * Version: 1.0.0
+ * Version: 1.2.0
  * Author: Roland Farkas
  * Author URI: https://rolandfarkas.com
  * Text Domain: wowebpsupport
