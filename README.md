@@ -18,6 +18,9 @@ Download the zip file from Github, and install it by uploading the plugin to you
 * [@rolandfarkasCOM](https://github.com/rolandfarkasCOM/)  
 
 ## Version History
+* 1.2 
+    * Added JPEG2000 Support
+    
 * 1.0 
     * Release Update
 
