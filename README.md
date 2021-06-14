@@ -1,8 +1,10 @@
-# Simple WordPress WebP Support Plugin
+# Simple WordPress Next Gen. Image Support Plugin
 
 ## Description
 
-A simple WordPress WebP image format support plugin, allow you to use WebP images on your WordPress Website.
+A simple WordPress next generation image format support plugin, allow you to use WebP images on your WordPress Website.
+
+Currently supports: WebP, JP2
 
 ## Getting Started
 
