@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple WordPress next generation image format support plugin, allow you to use WebP images on your WordPress Website.
+A simple WordPress next generation image format support plugin, allow you to use WebP or JPEG2000 images on your WordPress Website.
 
 Currently supports: WebP, JP2
 
